@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 98028cd66f79d3594edf1d0ba478e914829fdd86 Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1708925232 +0200	commit (initial): first commit
+98028cd66f79d3594edf1d0ba478e914829fdd86 98028cd66f79d3594edf1d0ba478e914829fdd86 Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1708925240 +0200	Branch: renamed refs/heads/main to refs/heads/main
+98028cd66f79d3594edf1d0ba478e914829fdd86 188ab1fda00cb9d5020c5d3e660b13f2eeea8b8a Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1709460931 +0200	commit: second commit
+188ab1fda00cb9d5020c5d3e660b13f2eeea8b8a 188ab1fda00cb9d5020c5d3e660b13f2eeea8b8a Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1709460952 +0200	Branch: renamed refs/heads/main to refs/heads/dzh
+188ab1fda00cb9d5020c5d3e660b13f2eeea8b8a 188ab1fda00cb9d5020c5d3e660b13f2eeea8b8a Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1709461591 +0200	Branch: renamed refs/heads/dzh to refs/heads/dzh
+188ab1fda00cb9d5020c5d3e660b13f2eeea8b8a 188ab1fda00cb9d5020c5d3e660b13f2eeea8b8a Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1709461654 +0200	Branch: renamed refs/heads/dzh to refs/heads/dzh
+188ab1fda00cb9d5020c5d3e660b13f2eeea8b8a d44e42c2babfb77f081b96072e614277ba1188b4 Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1709461851 +0200	commit: third commit
+d44e42c2babfb77f081b96072e614277ba1188b4 7b1807052552892df23194d5b412f413d00458b0 Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1710084814 +0200	commit: second commit
+7b1807052552892df23194d5b412f413d00458b0 7b1807052552892df23194d5b412f413d00458b0 Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1710084831 +0200	Branch: renamed refs/heads/dzh to refs/heads/main
+7b1807052552892df23194d5b412f413d00458b0 d44e42c2babfb77f081b96072e614277ba1188b4 Oleksandr Dzhivalov <dzivalovoleksandr@gmail.com> 1710085252 +0200	reset: moving to d44e42c2babfb77f081b96072e614277ba1188b4
